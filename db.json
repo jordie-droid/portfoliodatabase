@@ -27,35 +27,35 @@
     ],
     "computerSkills": [
         {
-            "logo": "database/java.svg",
+            "logo": "https://res.cloudinary.com/doxk0udlk/image/upload/v1618175181/java_qjgmrl.svg",
             "designation": "Java"
         },
         {
-            "logo": "database/file-type-html.svg",
+            "logo": "https://res.cloudinary.com/doxk0udlk/image/upload/v1618175179/file-type-html_xxsnz8.svg",
             "designation": "Html"
         },
         {
-            "logo": "database/file-type-css.svg",
+            "logo": "https://res.cloudinary.com/doxk0udlk/image/upload/v1618175179/file-type-css_xoimuw.svg",
             "designation": "Css"
         },
         {
-            "logo": "database/javascript.svg",
+            "logo": "https://res.cloudinary.com/doxk0udlk/image/upload/v1618175181/javascript_ngztow.svg",
             "designation": "JavaScript"
         },
         {
-            "logo": "database/file-type-sqlite.svg",
+            "logo": "https://res.cloudinary.com/doxk0udlk/image/upload/v1618175179/file-type-sqlite_ijtl8k.svg",
             "designation": "Sqlite"
         },
         {
-            "logo": "database/mysql.svg",
+            "logo": "https://res.cloudinary.com/doxk0udlk/image/upload/v1618175181/mysql_k1bndv.svg",
             "designation": "Mysql"
         },
         {
-            "logo": "database/postgresql.svg",
+            "logo": "https://res.cloudinary.com/doxk0udlk/image/upload/v1618175181/postgresql_sikm73.svg",
             "designation": "Postgres"
         },
         {
-            "logo": "database/sass.svg",
+            "logo": "https://res.cloudinary.com/doxk0udlk/image/upload/v1618175183/sass_mgf2ti.svg",
             "designation": "Sass"
         }
     ]
